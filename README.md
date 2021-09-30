@@ -1,4 +1,4 @@
-Team 11 Market Place
+Team 11 Digital Market Place
 
 The team is split into 2 groups, the frontend and backend
 1. Backend
